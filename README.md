@@ -5,7 +5,7 @@ Each recipe contains the instructions along with a link to the corresponding You
 **Link to project:** https://jaclynbrothers.github.io/leftover-ingredients-app/
 
 <p align="center">
-  <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" alt="animated gif of app" width="50%">
+  <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" alt="Leftover Ingredients App" width="50%">
 </p>
 
 ## How It's Made:
