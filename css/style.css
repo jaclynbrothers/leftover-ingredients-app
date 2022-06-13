@@ -4,23 +4,27 @@
 
 /* Box Model Hack */
 *{
-  box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 /******************************************
 /* LAYOUT
 /*******************************************/
 img{
-  display: block;
-  margin: 0 auto;
+    display: block;
+    margin: 0 auto;
 }
 
 
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
-html {
-    background: #850157;
+html { 
+    background: url(andre-background.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
@@ -31,8 +35,8 @@ html {
     box-sizing: border-box;
 }
 :root{
-    --tenne-tawny: #15415C;
-    --tenne-tawny-dark: #15415C;
+    --tenne-tawny: #0073CF;
+    --tenne-tawny-dark: #421CEF;
 }
 body{
     font-weight: 300;
@@ -57,6 +61,12 @@ body{
     padding-bottom: 2rem;
 }
 
+.adjustFont {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    padding-bottom: 2rem;
+}
+
 /*  */
 .container{
     min-height: 100vh;
@@ -65,7 +75,7 @@ body{
     max-width: 1280px;
     margin: 0 auto;
     padding: 2rem;
-    background: #850157;
+    /* background: #850157; */
     text-align: center;
 }
 .meal-search{
