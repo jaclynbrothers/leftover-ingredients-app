@@ -22,6 +22,7 @@ I gained knowledge with accessing an open database to retrieve useful informatio
 
 ## Credits
 
+Ingredients icon by Icons8
 Background photo by Andre Taissin on Unsplash.com
 
 ## Other Projects
