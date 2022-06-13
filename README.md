@@ -4,7 +4,9 @@ Each recipe contains the instructions along with a link to the corresponding You
 
 **Link to project:** https://jaclynbrothers.github.io/leftover-ingredients-app/
 
-![portfolio](https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" alt="animated gif of app" width="50%">
+</p>
 
 ## How It's Made:
 
@@ -22,7 +24,7 @@ I gained knowledge with accessing an open database to retrieve useful informatio
 
 ## Credits
 
-Ingredients icon by Icons8
+Ingredients icon by Icons8 <br>
 Background photo by Andre Taissin on Unsplash.com
 
 ## Other Projects
