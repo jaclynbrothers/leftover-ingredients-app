@@ -8,7 +8,7 @@ Each recipe contains the instructions along with a link to the corresponding You
   <img src="https://media.giphy.com/media/i4gQPdSIkW3Yntg32O/giphy.gif" alt="Leftover Ingredients App" width="50%">
 </p>
 
-## How It's Made:
+## How It's Made
 
 **Tech used:** HTML, CSS, JavaScript
 
