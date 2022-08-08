@@ -24,8 +24,9 @@ I gained knowledge with accessing an open database to retrieve useful informatio
 
 ## Credits
 
-Ingredients icon by Icons8 <br>
-Background photo by Andre Taissin on Unsplash.com
+<a target="_blank" href="https://icons8.com/icon/fpfOP6mrgkuG/ingredients">Ingredients</a> Icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<br>
+Background Photo by <a href="https://unsplash.com/@andretaissin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Andre Taissin</a> on <a href="https://unsplash.com/@andretaissin?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 ## Other Projects
 
